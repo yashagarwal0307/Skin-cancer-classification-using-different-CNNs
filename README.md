@@ -60,7 +60,6 @@ Each model had strengths, but none surpassed the 92% barrier. That's when I deci
 
 > 🚀 **Achieved Accuracy:** **93%**
 
-However:
 
 * ⚠️ **Major drawback:** **Very high computational cost** — unrealistic for deployment or real-time use.
 
@@ -76,7 +75,8 @@ For each model:
 
 These visualizations gave insight into where models succeeded or failed—especially in minority classes.
 
----
+--- 
+## Libraries used- Temsoflow, scikit-learn,numpy
 
 ## 🧠 Key Learnings
 
@@ -94,12 +94,3 @@ These visualizations gave insight into where models succeeded or failed—especi
 * Consider **self-supervised learning** or **contrastive pretraining**.
 * Try integrating **transformers (e.g., ViT)**.
 
----
-
-## 🗣️ Final Words
-
-> "Skin cancer detection is not just a computer vision problem—it's a clinical one. Deep learning can help, but must be paired with domain knowledge and responsible validation."
-
----
-
-Let me know if you want this formatted in Markdown code or want to turn it into a presentation-style summary or report.
